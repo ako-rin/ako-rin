@@ -1,5 +1,7 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
+![Yurin's GitHub stats](https://github-stats.yurin.cc/api?username=ako-rin&hide=contribs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-stats.yurin.cc/api/top-langs/?username=ako-rin&layout=donut)](https://github.com/ako-rin/github-readme-stats)
 <!--
 **ako-rin/ako-rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
