@@ -1,7 +1,21 @@
 <!-- ## Hi there 👋 -->
 
-![Yurin's GitHub stats](https://github-stats.yurin.cc/api?username=ako-rin&hide=contribs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-stats.yurin.cc/api/top-langs/?username=ako-rin&layout=donut)](https://github.com/ako-rin/github-readme-stats)
+<p align="center">
+  <img 
+    height="195" 
+    src="https://github-stats.yurin.cc/api?username=ako-rin&hide=contribs&show_icons=true&theme=tokyonight" 
+    alt="Yurin's GitHub stats" 
+  />
+</p>
+<p align="center">
+  <a href="https://github.com/ako-rin/github-readme-stats">
+    <img 
+      height="195" 
+      src="https://github-stats.yurin.cc/api/top-langs/?username=ako-rin&layout=donut" 
+      alt="Top Langs" 
+    />
+  </a>
+</p>
 <!--
 **ako-rin/ako-rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
