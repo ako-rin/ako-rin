@@ -1,5 +1,8 @@
 <!-- ## Hi there 👋 -->
 
+
+> A single dog. 🎉
+
 | <img height="195" align="center" src="https://github-stats.yurin.cc/api?username=ako-rin&show_icons=true&theme=tokyonight" alt="Yurin's GitHub stats" /> | <a href="https://github.com/ako-rin/github-readme-stats"><img height="195" align="center" src="https://github-stats.yurin.cc/api/top-langs/?username=ako-rin&theme=tokyonight&layout=donut" alt="Top Langs" /></a> |
 | :---: | :---: |
 <!--
