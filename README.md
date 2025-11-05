@@ -3,7 +3,7 @@
 <p align="center">
   <img 
     height="195" 
-    src="https://github-stats.yurin.cc/api?username=ako-rin&show_icons=true&theme=tokyonight" 
+    src="https://github-stats.yurin.cc/api?username=ako-rin&show_icons=true&bg_color=00000000&theme=tokyonight" 
     alt="Yurin's GitHub stats" 
   />
 </p>
@@ -11,7 +11,7 @@
   <a href="https://github.com/ako-rin/github-readme-stats">
     <img 
       height="195" 
-      src="https://github-stats.yurin.cc/api/top-langs/?username=ako-rin&layout=donut" 
+      src="https://github-stats.yurin.cc/api/top-langs/?username=ako-rin&bg_color=00000000&theme=tokyonight&layout=donut" 
       alt="Top Langs" 
     />
   </a>
