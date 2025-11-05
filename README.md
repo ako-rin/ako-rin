@@ -3,7 +3,7 @@
 <p align="center">
   <img 
     height="195" 
-    src="https://github-stats.yurin.cc/api?username=ako-rin&hide=contribs&show_icons=true&theme=tokyonight" 
+    src="https://github-stats.yurin.cc/api?username=ako-rin&show_icons=true&theme=tokyonight" 
     alt="Yurin's GitHub stats" 
   />
 </p>
